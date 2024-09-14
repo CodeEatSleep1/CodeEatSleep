@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm someone, a passionate developer who loves to code, eat, and sleep. Welcome to my GitHub profile!
+I'm mohsin, a passionate developer who loves to code, eat, and sleep. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -10,9 +10,9 @@ I'm someone, a passionate developer who loves to code, eat, and sleep. Welcome t
 
 ## Tech Stack
 
-- **Languages:** [List your primary programming languages]
-- **Frameworks/Libraries:** [List your primary frameworks/libraries]
-- **Tools:** [List your primary tools and platforms]
+- **Languages:** ["javascript","nodejs","php","java","html","css"]
+- **Frameworks/Libraries:** ["React","express","tailwindcss"]
+- **Databases:** ["mongoDB","SQL"]
 
 ## Projects
 
