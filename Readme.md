@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm mohsin, a passionate developer who loves to code, eat, and sleep. Welcome to my GitHub profile!
+I'm Ahsan, a passionate developer who loves to code, eat, and sleep. Welcome to my GitHub profile!
 
 ## About Me
 
