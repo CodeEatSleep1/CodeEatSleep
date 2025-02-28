@@ -14,22 +14,10 @@ I'm Ahsan, a passionate developer who loves to code, eat, and sleep. Welcome to 
 - **Frameworks/Libraries:** ["React","express","tailwindcss"]
 - **Databases:** ["mongoDB","SQL"]
 
-## Projects
-
-Here are a few highlights of my work:
-
-### [Project 1 Name](link)
-A brief description of what this project is about, what technologies were used, and why it's interesting.
-
-### [Project 2 Name](link)
-A brief description of what this project is about, what technologies were used, and why it's interesting.
-
-### [Project 3 Name](link)
-A brief description of what this project is about, what technologies were used, and why it's interesting.
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeEatSleep1&show_icons=true&theme=radical)
 
 ## Connect with Me
 
